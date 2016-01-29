@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="autocomplete_loader" type="id"/>
+    <item name="auth_loader" type="id"/>
+    <item name="repo_list_loader" type="id"/>
+</resources>
